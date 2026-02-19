@@ -1,4 +1,4 @@
-🌸 Flower Classification using Neural Networks
+<img width="788" height="412" alt="image" src="https://github.com/user-attachments/assets/3bc1db80-4f0e-4d7b-8f6e-1ad4b6e16de6" />🌸 Flower Classification using Neural Networks
 Overview
 
 This project is a Digital Image Processing assignment focused on classifying flowers using a 4-layer Neural Network in Python. The dataset consists of multiple flower categories, and the model is trained to recognize and classify images accurately.
@@ -46,16 +46,6 @@ Loss: Categorical Crossentropy
 Optimizer: Adam
 
 Epochs: 20
-
-Flower-Classification/
-│
-├── dataset/
-│   ├── train/          # Training images (subfolders per flower class)
-│   └── test/           # Testing images (subfolders per flower class)
-│
-├── flower_classification_model.h5   # Trained model
-├── Ass_70.ipynb        # Original Jupyter Notebook
-└── README.md           # Project documentation
 
 
 🔹 Features
